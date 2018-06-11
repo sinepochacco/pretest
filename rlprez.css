@@ -1,0 +1,67 @@
+/*!
+ * Atomi HTML5 Project Style Sheet
+ * Copyright (c) Atomi Systems, Inc. All rights reserved.
+ * https://atomisystems.com
+ * Version: 7.2.1
+ */
+#yj4Tp23I .ap-focused {
+	outline: 1px dashed black;
+	outline-offset: 1px;
+}
+#yj4Tp23I p {
+	margin: 0;
+}
+#yj4Tp23I ol,ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+@font-face{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Arial'),
+         url('resources/font_0.woff');
+}
+@font-face{
+    font-family: 'Cornerstone';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Cornerstone'),
+         url('resources/font_1.woff');
+}
+@font-face{
+    font-family: 'DB Helvethaica X 55 Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local('DB Helvethaica X 55 Regular'),
+         url('resources/font_2.woff');
+}
+@font-face{
+    font-family: 'DB Helvethaica X 55 Regular';
+    font-style: normal;
+    font-weight: 700;
+    src: local('DB Helvethaica X 55 Regular Bold'),
+         url('resources/font_3.woff');
+}
+@font-face{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Georgia'),
+         url('resources/font_4.woff');
+}
+@font-face{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Georgia Bold'),
+         url('resources/font_5.woff');
+}
+@font-face{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Times New Roman'),
+         url('resources/font_6.woff');
+}
+
